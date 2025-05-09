@@ -43,5 +43,5 @@ Feature Requirements
 
 What to submit in Citrone
 
-- Submit the PR link (pointing your working branch to the main branch) : [PR link](https://github.com/oge-dev/Star-Wars-franchise/pull/4)
+- Submit the PR link (pointing your working branch to the main branch) : [PR link](https://github.com/geliettech/Star-Wars-franchise/pull/4)
 - Host your work on Netlify/Github Pages and submit the hosted link: [My hosted link](https://star-wars-movies-byoge.netlify.app/)
